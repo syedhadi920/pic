@@ -1,0 +1,40 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+body
+{
+
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  background-color: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+
+.swiper-container
+{
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #0f3057;
+}
+
+.swiper-slide
+{
+  background-position: center;
+  background-size: cover;
+  width: 600px;
+  height: 500px;
+  background: #290001;
+  text-align:center;
+}
+.img{
+  height: 500px;
+}
+.pass{
+  background-color: #fff;
+}
